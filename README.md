@@ -16,6 +16,7 @@ A sleek travel video blog designed to inspire globetrotters while seamlessly int
 <!-- Badges from https://shields.io -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-07B6B4?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
